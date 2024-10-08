@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  min-height: 100vh;
+  width: 100vw;
+  font-family: "Poppins", sans-serif;
+  background-image: url('./assets/background_login.svg');
+  background-size: cover;
+  font-size: 16px;
+}
+
+
+.mallanna-regular {
+  font-family: "Mallanna", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
